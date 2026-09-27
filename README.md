@@ -2,9 +2,9 @@
 **Evaluating Workforce Retention, Compensation Equity, Remote Work Efficacy, and Talent Optimization Across 100,000 Employees**
 
 ## 🛠️ Tech Stack
-* **Python:** Pandas, NumPy, Matplotlib Data Imputation, Cleaning, Exploratory Data Analysis ([Employee HR Dataset Python problems.ipynb](Python Notebooks/Employee HR Dataset Python problems.ipynb))
-* **SQL:** MySQL: Aggregations, Window Functions, CTEs, View Creation ([HR dataset SQL Problems.sql](SQL Scripts/HR dataset SQL Problems.sql))
-* **Data Visualization:** Microsoft Power BI ([Employee HR Dashboard.pbix](Dashboard/Employee HR Dashboard.pbix))
+* **Python:** Pandas, NumPy, Matplotlib Data Imputation, Cleaning, Exploratory Data Analysis ([Employee HR Dataset Python problems.ipynb](Python%20Notebooks/Employee%20HR%20Dataset%20Python%20problems.ipynb))
+* **SQL:** MySQL: Aggregations, Window Functions, CTEs, View Creation ([HR dataset SQL Problems.sql](SQL%20Scripts/HR%20dataset%20SQL%20Problems.sql))
+* **Data Visualization:** Microsoft Power BI ([Employee HR Dashboard.pbix](Dashboard/Employee%20HR%20Dashboard.pbix))
 
 ## 📌 Executive Summary & Project Objective
 High employee turnover and misaligned compensation structures silently erode enterprise profitability. This project analyzes a comprehensive 100,000-employee Indian HR dataset spanning 9 departments and 9 job titles (hiring records from 1989–2025) to uncover actionable drivers of attrition, workload distribution, and performance.
@@ -15,11 +15,11 @@ To demonstrate full-stack data analytics capabilities, this case study executes 
 4. Executive BI Reporting (Power BI): Designed a dynamic, 3-page interactive dashboard for leadership to monitor attrition, audit pay equity, and identify top promotion candidates alongside underperforming layoff risks.
 
 ## 📊 Interactive Dashboard
-![Employee Retension and Attrition Metrics](Images/Employee Retension and Attrition Metrics.png)
+![Employee Retension and Attrition Metrics](Images/Employee%20Retension%20and%20Attrition%20Metrics.png)
 
-![Promotion and Layoff Matrix](Images/Promotion and Layoff Matrix.png)
+![Promotion and Layoff Matrix](Images/Promotion%20and%20Layoff%20Matrix.png)
 
-![Workload and Compensation Metrics](Images/Workload and Compensation Metrics.png)
+![Workload and Compensation Metrics](Images/Workload%20and%20Compensation%20Metrics.png)
 
 
 ### Page 1: Employee Retention & Attrition Metrics
@@ -59,10 +59,10 @@ To demonstrate full-stack data analytics capabilities, this case study executes 
 
 ## 📂 Repository Contents
 * [**`Data`**](Data): The foundational dataset containing employee information, workload, compensation and other relevant records
-* [**`Python Notebooks/Employee HR Dataset Python problems.ipynb`**](Python Notebooks/Employee HR Dataset Python problems.ipynb): Python code detailing the data wrangling process, including the imputation of missing values.
-* [**`SQL Scripts/HR dataset SQL Problems.sqll`**](SQL Scripts/HR dataset SQL Problems.sql): Advanced SQL queries utilizing CTEs and window functions to solve specific business problems.
-* [**`SQL Scripts/HR dataset SQL Export.sql`**](SQL Scripts/HR dataset SQL Export.sql): Structured SQL views created to feed clean, aggregated data directly into the Power BI dashboard.
-* [**`Dashboard/Employee HR Dashboard.pbix`**](Dashboard/Employee HR Dashboard.pbix): The final interactive Power BI dashboard file.
+* [**`Python Notebooks/Employee HR Dataset Python problems.ipynb`**](Python%20Notebooks/Employee%20HR%20Dataset%20Python%20problems.ipynb): Python code detailing the data wrangling process, including the imputation of missing values.
+* [**`SQL Scripts/HR dataset SQL Problems.sqll`**](SQL%20Scripts/HR%20dataset%20SQL%20Problems.sql): Advanced SQL queries utilizing CTEs and window functions to solve specific business problems.
+* [**`SQL Scripts/HR dataset SQL Export.sql`**](SQL%20Scripts/HR%20dataset%20SQL%20Export.sql): Structured SQL views created to feed clean, aggregated data directly into the Power BI dashboard.
+* [**`Dashboard/Employee HR Dashboard.pbix`**](Dashboard/Employee%20HR%20Dashboard.pbix): The final interactive Power BI dashboard file.
 
 ## 🚀 How to Run this Project
 1. Clone the repository: `git clone https://github.com/yourusername/Employee-HR-Analytics-Case-Study.git`
