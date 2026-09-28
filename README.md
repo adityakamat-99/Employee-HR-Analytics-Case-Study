@@ -60,13 +60,13 @@ To demonstrate full-stack data analytics capabilities, this case study executes 
 ## 📂 Repository Contents
 * [**`Data`**](Data): The foundational dataset containing employee information, workload, compensation and other relevant records
 * [**`Python Notebooks/Employee HR Dataset Python problems.ipynb`**](Python%20Notebooks/Employee%20HR%20Dataset%20Python%20problems.ipynb): Python code detailing the data wrangling process, including the imputation of missing values.
-* [**`SQL Scripts/HR dataset SQL Problems.sqll`**](SQL%20Scripts/HR%20dataset%20SQL%20Problems.sql): Advanced SQL queries utilizing CTEs and window functions to solve specific business problems.
+* [**`SQL Scripts/HR dataset SQL Problems.sql`**](SQL%20Scripts/HR%20dataset%20SQL%20Problems.sql): Advanced SQL queries utilizing CTEs and window functions to solve specific business problems.
 * [**`SQL Scripts/HR dataset SQL Export.sql`**](SQL%20Scripts/HR%20dataset%20SQL%20Export.sql): Structured SQL views created to feed clean, aggregated data directly into the Power BI dashboard.
 * [**`Dashboard/Employee HR Dashboard.pbix`**](Dashboard/Employee%20HR%20Dashboard.pbix): The final interactive Power BI dashboard file.
 
 ## 🚀 How to Run this Project
 1. Clone the repository: `git clone https://github.com/yourusername/Employee-HR-Analytics-Case-Study.git`
 2. Open the Python notebook to view the data cleaning process.
-3. Run the `SQL exports.sql` script in your SQL environment to generate the necessary views.
-4. Execute `SQL problems.sql` to view the raw business answers.
-5. Open the `Phone Pe Dashboard.pbix` file in Microsoft Power BI Desktop to interact with the visualizations.
+3. Run the `HR dataset SQL Export.sql` script in your SQL environment to generate the necessary views.
+4. Execute `HR dataset SQL Problems.sql`` to view the raw business answers.
+5. Open the `Employee HR Dashboard.pbix` file in Microsoft Power BI Desktop to interact with the visualizations.
